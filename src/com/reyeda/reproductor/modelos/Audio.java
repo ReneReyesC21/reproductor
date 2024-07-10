@@ -1,4 +1,4 @@
-package com.reyeda.reproductos.modelos;
+package com.reyeda.reproductor.modelos;
 
 public class Audio {
 
